@@ -7,3 +7,4 @@ Place tdl_GUI.bat into C:\Users\YOU\AppData\Roaming\Microsoft\Windows\SendTo
 
 Right-click a texture file, and select SentTo -> tdl_GUI.bat
 
+![alt text](./screenshot.png)
